@@ -1,1 +1,1 @@
-# EDA_in_R
+# Exploratory data analysis in R
